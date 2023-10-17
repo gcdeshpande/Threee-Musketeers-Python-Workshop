@@ -1,0 +1,1 @@
+The authorities have video evidence of a possible suspect in the museum break in. The suspect was seen carrying a briefcase measuring 20” long by 16” high by 3” wide. One of the artifacts stolen was 24” long and 2” wide. Investigators are trying to determine if this artifact was possibly smuggled out of the museum in this suspect’s briefcase.
