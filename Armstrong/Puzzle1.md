@@ -6,3 +6,8 @@ An Armstrong number (of n digits) is an integer such that the sum of its constit
 
 Puzzle Solution:
 Detective Jordan must find which of the given numbers are Armstrong numbers. Jordan needs to analyze each number: split it into individual digits, raise each digit to the power of n (where n is the number of digits in the number), and sum them. If the sum is equal to the original number, it is an Armstrong number.
+
+Note: Armstrong numbers can be ZIP/PIN codes
+
+Armstrong ZIP Codes: 54748, 92727, 93084
+Armstrong PIN Codes: 548834
