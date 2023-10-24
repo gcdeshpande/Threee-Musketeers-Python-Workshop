@@ -4,6 +4,7 @@ Before starting, make sure you have Python installed on your machine. You can us
 Step 2: Define the Armstrong checking function
 First, we need to create a function that checks whether a given number is an Armstrong number.
 
+```python
 def is_armstrong(num):
     """Check if the number is an Armstrong number."""
     # Calculate the number of digits (n) in the number.
@@ -13,3 +14,4 @@ def is_armstrong(num):
     total = sum(int(digit) ** n for digit in str(num))
     
     return total == num
+```
