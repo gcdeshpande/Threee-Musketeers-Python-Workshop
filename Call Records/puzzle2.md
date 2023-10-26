@@ -6,3 +6,23 @@ The call records contain the following data for each call: caller, receiver, tim
 
 Detective Parker has a list of four suspects: A, B, C, and D. The external agent's number is 999-9999.
 
+# Given:
+
+You have a numpy array with the call records around the time of the secret meeting:
+```python
+import numpy as np
+
+records = np.array([
+    ["A", "123-4567", "23:55", "2:15"],
+    ["B", "999-9999", "23:57", "1:30"],
+    ["C", "234-5678", "00:02", "5:00"],
+    ["D", "345-6789", "00:01", "0:45"],
+    ["A", "999-9999", "00:03", "3:30"],
+    ["C", "D", "00:10", "1:00"]
+])
+```
+
+# Task:
+Using the numpy library, determine which suspect(s) called the external agent (999-9999) just before the secret midnight meeting.
+
+
